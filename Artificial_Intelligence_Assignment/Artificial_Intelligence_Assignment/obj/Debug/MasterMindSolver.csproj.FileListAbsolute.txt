@@ -1,0 +1,6 @@
+E:\Code Modules\C#\Artificial_Intelligence_Assignment\Artificial_Intelligence_Assignment\bin\Debug\Artificial_Intelligence_Assignment.exe.config
+E:\Code Modules\C#\Artificial_Intelligence_Assignment\Artificial_Intelligence_Assignment\bin\Debug\Artificial_Intelligence_Assignment.exe
+E:\Code Modules\C#\Artificial_Intelligence_Assignment\Artificial_Intelligence_Assignment\bin\Debug\Artificial_Intelligence_Assignment.pdb
+E:\Code Modules\C#\Artificial_Intelligence_Assignment\Artificial_Intelligence_Assignment\obj\Debug\MasterMindSolver.csprojResolveAssemblyReference.cache
+E:\Code Modules\C#\Artificial_Intelligence_Assignment\Artificial_Intelligence_Assignment\obj\Debug\Artificial_Intelligence_Assignment.exe
+E:\Code Modules\C#\Artificial_Intelligence_Assignment\Artificial_Intelligence_Assignment\obj\Debug\Artificial_Intelligence_Assignment.pdb
